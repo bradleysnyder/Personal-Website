@@ -49,6 +49,14 @@ h1, h2, h3 {
   color: #1f2937;
 }
 
+footer {
+    margin-top: 60px;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: #6b7280;
+}
+
 /* Resume-specific */
 .resume-section {
   margin-bottom: 40px;
